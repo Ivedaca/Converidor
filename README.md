@@ -1,2 +1,2 @@
-# Converidor
+# Convertidor
 Convertidor de Monedas
